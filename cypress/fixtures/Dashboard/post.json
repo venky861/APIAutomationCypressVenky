@@ -1,0 +1,149 @@
+{
+	"/cssr/user/customization": {
+	  "tenantId": "{{ tenantId }}",
+	  "user": "{{ user }}",
+	  "groups": [
+		{
+		  "groupId": 1,
+		  "leftNavigation": false,
+		  "parentId": 1,
+		  "groupOrder": 1,
+		  "groupShow": true,
+		  "cards": [
+			{ "cardId": 1, "parentId": 1, "cardShow": true, "cardData": {} }
+		  ]
+		},
+		{
+		  "groupId": 2,
+		  "leftNavigation": false,
+		  "parentId": 2,
+		  "groupOrder": "{{ Alert }}",
+		  "groupShow": true,
+		  "cards": [
+			{ "cardId": 2, "parentId": 2, "cardShow": true, "cardData": {} }
+		  ]
+		},
+		{
+		  "groupId": 21,
+		  "leftNavigation": false,
+		  "parentId": 21,
+		  "groupOrder": "{{ Health }}",
+		  "groupShow": "{{ show }}",
+		  "cards": [
+			{ "cardId": 21, "parentId": 21, "cardShow": true, "cardData": {} }
+		  ]
+		},
+		{
+		  "groupId": 20,
+		  "leftNavigation": false,
+		  "parentId": 20,
+		  "groupOrder": 4,
+		  "groupShow": true,
+		  "cards": [
+			{ "cardId": 20, "parentId": 20, "cardShow": true, "cardData": {} }
+		  ]
+		},
+		{
+		  "groupId": 22,
+		  "leftNavigation": false,
+		  "parentId": 22,
+		  "groupOrder": 5,
+		  "groupShow": true,
+		  "cards": [
+			{ "cardId": 22, "parentId": 22, "cardShow": true, "cardData": {} }
+		  ]
+		},
+		{
+		  "groupId": 23,
+		  "leftNavigation": false,
+		  "parentId": 23,
+		  "groupOrder": 6,
+		  "groupShow": true,
+		  "cards": [
+			{ "cardId": 23, "parentId": 23, "cardShow": true, "cardData": {} }
+		  ]
+		},
+		{
+		  "groupId": 10,
+		  "leftNavigation": true,
+		  "parentId": 11,
+		  "groupOrder": 7,
+		  "groupShow": true,
+		  "cards": [
+			{ "cardId": 15, "parentId": 11, "cardShow": true, "cardData": {} }
+		  ]
+		},
+		{
+		  "groupId": 5,
+		  "leftNavigation": false,
+		  "parentId": 5,
+		  "groupOrder": 8,
+		  "groupShow": true,
+		  "cards": [
+			{ "cardId": 7, "parentId": 5, "cardShow": true, "cardData": {} }
+		  ]
+		},
+		{
+		  "groupId": 11,
+		  "leftNavigation": true,
+		  "parentId": 12,
+		  "groupOrder": 9,
+		  "groupShow": true,
+		  "cards": [
+			{ "cardId": 16, "parentId": 12, "cardShow": true, "cardData": {} }
+		  ]
+		},
+		{
+		  "groupId": 12,
+		  "leftNavigation": true,
+		  "parentId": 13,
+		  "groupOrder": 10,
+		  "groupShow": true,
+		  "cards": [
+			{ "cardId": 17, "parentId": 13, "cardShow": true, "cardData": {} }
+		  ]
+		},
+		{
+		  "groupId": 24,
+		  "leftNavigation": false,
+		  "parentId": 24,
+		  "groupOrder": 11,
+		  "groupShow": true,
+		  "cards": [
+			{ "cardId": 24, "parentId": 24, "cardShow": true, "cardData": {} }
+		  ]
+		},
+		{
+		  "groupId": 25,
+		  "leftNavigation": false,
+		  "parentId": 25,
+		  "groupOrder": 12,
+		  "groupShow": true,
+		  "cards": [
+			{ "cardId": 25, "parentId": 25, "cardShow": true, "cardData": {} }
+		  ]
+		},
+		{
+		  "groupId": 26,
+		  "leftNavigation": false,
+		  "parentId": 26,
+		  "groupOrder": 13,
+		  "groupShow": true,
+		  "cards": [
+			{ "cardId": 26, "parentId": 26, "cardShow": true, "cardData": {} }
+		  ]
+		},
+		{
+		  "groupId": 27,
+		  "leftNavigation": false,
+		  "parentId": 27,
+		  "groupOrder": 14,
+		  "groupShow": true,
+		  "cards": [
+			{ "cardId": 27, "parentId": 27, "cardShow": true, "cardData": {} }
+		  ]
+		}
+	  ]
+	}
+  }
+  

@@ -1,0 +1,16 @@
+{
+	"kibanaType":{
+		"advancedIncident":"advancedIncident",
+		"problem":"problem",
+		"advancedChange":"advancedChange",
+		"pervasive":"pervasive",
+		"actionableInsights":"actionableInsights",
+		"monitoringAndVisibility":"monitoringAndVisibility",
+		"crossCard":"crossCard"
+	},
+	"userInfo":{
+		"firstName":"Prachi",
+		"lastName":"G",
+		"emailID":"Prachi.Garg@kyndryl.com"
+	}
+}

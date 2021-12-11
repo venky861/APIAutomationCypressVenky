@@ -1,0 +1,22 @@
+{
+  "selfserviceupload":
+  {
+    "from" : "0",
+    "size" : "10",
+    "term" : "0",
+    "sort" : "date",
+    "order" : "desc"
+  },
+  "selfservicesearch":
+  {
+     "datastage" : "{{ elasticSearch}}",
+     "from_date" : "{{ from_date }}",
+     "to_date" : "{{ to_date }}",
+     "toolsource" : "ACMEICD"
+  },
+  "selfserviceCacfLds":
+  {
+     "datastage" : "raw",
+     "toolsource" : "ACMEICD"
+  }
+}

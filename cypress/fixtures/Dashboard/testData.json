@@ -1,0 +1,10 @@
+{
+	"groupIDForITOps":[1,2,21,20,22,23,10,5,11,12],
+	"groupIDforAiopsAdmin":[25,24],
+	"ITOpsManager":"IT Ops Manager",
+	"aiopsAdmin":"AIOps Admin",
+	"randomApiKey":"50064136-an27-59d1-b65c-3c4eaa398131",
+	"raw":"raw",
+	"processed":"processed",
+	"aggregate":"aggregate"
+}

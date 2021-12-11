@@ -1,0 +1,21 @@
+# Logs
+cypress/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# Ignore Generated outputs
+cypress/reports
+cypress/junit
+cypress/screenshots/
+cypress/videos/
+logs

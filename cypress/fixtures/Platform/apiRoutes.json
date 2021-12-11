@@ -1,0 +1,11 @@
+{
+	"defaultClientDetails" : "/client/defaultclient",
+	"onpremfeatureflag":"/onprem/feature-flag/",
+	"kibanaReport":"/cssr/kibana/urlmap/",
+	"userInfo":"/authorization/v2/userinfo",
+	"getSpecificUserInfo":"/authorization/v2/userinfo?start_offset=0&limit=10&search_value={{firstName}}{{lastName}}&search_properties=[userid,teams,firstname,userstatus,lastname,emails]",
+	"getTeams":"/authorization/v3/teams",
+	"tagUserToTeams":"/authorization/v2/users/teams",
+	"getUserDataByID":"/authorization/v2/userinfo/{{userID}}",
+	"removeTeams":"/authorization/v2/users/teams/remove"
+}

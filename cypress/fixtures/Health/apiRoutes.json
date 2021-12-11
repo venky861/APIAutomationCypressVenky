@@ -1,0 +1,12 @@
+{
+	"appTopInsightMostIncidents":"/api/v1/aiops/health/applications/top-insights/most-incidents",
+	"appTopInsightHighPriorityIncidents":"/api/v1/aiops/health/applications/top-insights/high-priority-incidents",
+	"resTopInsightLeastHealthy":"/api/v1/aiops/health/resources/top-insights/least-healthy",
+	"resTopInsightMostIncidents":"/api/v1/aiops/health/resources/top-insights/most-incidents",
+	"getTenantEdition" : "/api/v1/aiops/health/tenant/mcmp-edition",
+	"healthStatus":"/api/v1/aiops/health/applications/status",
+	"fetchDeletedResourceList" : "/api/v1/aiops/health/resources/deleted/list/view",
+    "fetchResourceList" : "/api/v1/aiops/health/resources/list/view",
+    "fetchResourceMetricsList" : "/api/v1/aiops/health/res-details/metrics/list/{{correlationId}}",
+    "fetchResourceListBasedOnresourceCategory" : "/api/v1/aiops/health/res-details/metrics/resources/{{correlationId}}"
+}

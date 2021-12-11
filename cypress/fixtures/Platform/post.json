@@ -1,0 +1,5 @@
+{
+	"/authorization/v2/userinfo":{
+		"firstname":"{{firstName}}","lastname":"{{lastName}}","middlename":"","displayname":"","userid":"","userstatus":"Active","emails":["{{emailID}}"],"user_api_access_allowed":true,"user_language":"en"
+	}
+}

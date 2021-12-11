@@ -1,0 +1,35 @@
+{
+  "/api/v1/aiops/health/applications/top-insights/most-incidents": {
+    "provider": {},
+    "sourceTypes": [
+    ],
+    "applications": [
+    ],
+    "teams": [
+    ]
+    },
+
+    "/api/v1/aiops/health/resources/deleted/list/view" : {
+      "page": 1,
+      "size": 50,
+      "provider": {},
+      "sourceType": [
+      ],
+      "applications": [
+      ],
+      "team": [
+      ]
+	},
+	"/api/v1/aiops/health/applications/status":{
+		"provider": {},
+		"sourceTypes": [
+		  
+		],
+		"applications": [
+		  
+		],
+		"teams": [
+		  
+		]
+	  }
+}
